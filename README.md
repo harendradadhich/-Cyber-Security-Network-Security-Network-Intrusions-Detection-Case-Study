@@ -39,5 +39,5 @@ Pl download the following files:
 2. Data files in Data folder
 3. correlations, numerical and categorical summaries files as .csv format
 4. Output as .xlsx format
-5. model save as pickle object
-6. 
+5. Model save as pickle object
+
