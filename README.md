@@ -1,4 +1,4 @@
-# -Cyber-Security-Network-Security-Network-Intrusions-Detection-Case-Study
+# Cyber-Security-Network-Security-Network-Intrusions-Detection-Case-Study
 Business Objective:
 With the enormous growth of computer networks usage and the huge increase in the number of
 applications running on top of it, network security is becoming increasingly more important. All the
@@ -35,7 +35,9 @@ flow vs. FTP Write vs. Guess Password vs. Neptune vs. N-Map vs. Port Sweep vs. R
 Satan vs. Smurf
 
 Pl download the following files:
-1. Code file in .ipynb format
+1. Code file in .ipynb formats for Bionomial and multinomial classifications
 2. Data files in Data folder
-3. Output files in .csv or .xlsx format
-4. 
+3. correlations, numerical and categorical summaries files as .csv format
+4. Output as .xlsx format
+5. model save as pickle object
+6. 
